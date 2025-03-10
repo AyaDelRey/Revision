@@ -1,0 +1,10 @@
+C:\Users\m.chanu\source\repos\Revision\DBrevise\bin\Debug\DBrevise.dacpac
+C:\Users\m.chanu\source\repos\Revision\DBrevise\bin\Debug\DBrevise.dll
+C:\Users\m.chanu\source\repos\Revision\DBrevise\bin\Debug\DBrevise.pdb
+C:\Users\m.chanu\source\repos\Revision\DBrevise\obj\Debug\DBrevise.sqlproj.AssemblyReference.cache
+C:\Users\m.chanu\source\repos\Revision\DBrevise\obj\Debug\Model.xml
+C:\Users\m.chanu\source\repos\Revision\DBrevise\obj\Debug\refactor.xml
+C:\Users\m.chanu\source\repos\Revision\DBrevise\obj\Debug\postdeploy.sql
+C:\Users\m.chanu\source\repos\Revision\DBrevise\obj\Debug\predeploy.sql
+C:\Users\m.chanu\source\repos\Revision\DBrevise\obj\Debug\DBrevise.dll
+C:\Users\m.chanu\source\repos\Revision\DBrevise\obj\Debug\DBrevise.pdb

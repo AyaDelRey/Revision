@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OhFyL81BSPc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.chanu\\source\\repos\\Revision\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.chanu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.2\\microsoft.extensions.configuration.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\m.chanu\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
